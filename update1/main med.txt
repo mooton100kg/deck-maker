@@ -1,0 +1,11 @@
+medicine :
+{'lactulose', 'misoprostol', 'ondansetron', 'psyllium', 'milk of magnesia', 'magnesium hydroxide', 'activated charcoal', 'loperamide', 'methylcellulose', 'bisacodyl', 'isphagula husk', 'sucralfate', 'cisapride', 'alum milk', 'omeprazole', 'sodium bicarbonate', 'bethanechol', 'ranitidine', 'cimetidine', 'metoclopramide', 'aluminium hydroxide', 'domperidone', 'calcium carbonate', 'famotidine', 'docusate'
+
+mechanism :
+{'d antagonist', 'opioid agonist', 'stool softener', '5-HT4 agonist', 'h2 antagonist', 'antacid', '5-HT3 antagonist', 'coat ulcer', 'PGE analog', 'm agonist', 'osmotic', 'bulk forming', 'irritant', 'adsorption', 'proton pump inhibitor'}
+
+indication :
+{'N/V', 'GI atony', 'GI reflux', 'diarrhea', 'peptic ulcer', 'urinary retention', 'gastroparesis', 'constipation', 'hepatic encephalopathy'}
+
+adr :
+{'abdominal spasm', 'urinary incontinence', 'diarrhea', 'bronchoconstriction', 'constipation', 'uterine contraction', 'extrapyramidal', 'drug interaction', 'osteoporosis', 'salivation', 'dystonia', 'tetany', 'anemia', 'hyperprolactinemia', 'sweating', 'arrhythmia', 'belching', 'well tolerated', 'hypergastrinemia'}

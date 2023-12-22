@@ -1,0 +1,11 @@
+medicine :
+{'misoprostol', 'psyllium', 'ondansetron', 'omeprazole', 'lactulose', 'aluminium hydroxide', 'cimetidine', 'domperidone'}
+
+mechanism :
+{'5-HT3 antagonist', 'PGE analog', 'h2 antagonist', 'bulk forming', 'd antagonist', 'proton pump inhibitor', 'antacid', 'osmotic'}
+
+indication :
+{'hepatic encephalopathy', 'GI reflux', 'N/V', 'peptic ulcer', 'constipation', 'gastroparesis'}
+
+adr :
+{'drug interaction', 'arrhythmia', 'hyperprolactinemia', 'diarrhea', 'hypergastrinemia', 'uterine contraction', 'osteoporosis', 'constipation', 'belching', 'tetany', 'anemia'}

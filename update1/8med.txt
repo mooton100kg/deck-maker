@@ -1,0 +1,11 @@
+medicine :
+{'metoclopramide', 'psyllium', 'loperamide', 'bisacodyl', 'cimetidine', 'omeprazole', 'bethanechol', 'cisapride'}
+
+mechanism :
+{'irritant', '5-HT4 agonist', 'proton pump inhibitor', 'h2 antagonist', 'm agonist', 'opioid agonist', 'bulk forming', 'd antagonist'}
+
+indication :
+{'N/V', 'diarrhea', 'gastroparesis', 'GI atony', 'urinary retention', 'peptic ulcer', 'constipation', 'GI reflux'}
+
+adr :
+{'anemia', 'dystonia', 'tetany', 'hypergastrinemia', 'extrapyramidal', 'diarrhea', 'toxic megacolon', 'salivation', 'constipation', 'sweating', 'arrhythmia', 'drug interaction', 'urinary incontinence', 'systemic infection', 'hyperprolactinemia', 'belching', 'osteoporosis', 'bronchoconstriction', 'abdominal spasm'}

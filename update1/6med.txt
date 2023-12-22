@@ -1,0 +1,11 @@
+medicine :
+{'cisapride', 'bisacodyl', 'cimetidine', 'psyllium', 'omeprazole', 'bethanechol'}
+
+mechanism :
+{'proton pump inhibitor', 'h2 antagonist', 'bulk forming', '5-HT4 agonist', 'irritant', 'm agonist'}
+
+indication :
+{'constipation', 'gastroparesis', 'urinary retention', 'GI atony', 'peptic ulcer', 'GI reflux'}
+
+adr :
+{'anemia', 'tetany', 'hypergastrinemia', 'diarrhea', 'salivation', 'sweating', 'arrhythmia', 'drug interaction', 'urinary incontinence', 'belching', 'osteoporosis', 'bronchoconstriction'}

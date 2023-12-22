@@ -1,0 +1,11 @@
+medicine :
+{'sucralfate', 'milk of megnesia', 'calcium carbonate', 'methylcellulose', 'metoclopramide', 'famotidine', 'loperamide', 'sodium bicarbonate', 'bisacodyl'}
+
+mechanism :
+{'opioid agonist', 'h2 antagonist', 'coat ulcer', 'd antagonist', 'bulk forming', 'antacid', 'osmotic', 'irritant'}
+
+indication :
+{'GI reflux', 'diarrhea', 'N/V', 'peptic ulcer', 'constipation', 'gastroparesis'}
+
+adr :
+{'drug interaction', 'arrhythmia', 'hyperprolactinemia', 'toxic megacolon', 'diarrhea', 'well tolerated', 'systemic infection', 'abdominal spasm', 'constipation', 'belching', 'dystonia', 'extrapyramidal'}

@@ -1,0 +1,11 @@
+medicine :
+{'ranitidine', 'cisapride', 'activated charcoal', 'docusate', 'alum milk', 'magnesium hydroxide', 'isphagula husk', 'bethanechol'}
+
+mechanism :
+{'5-HT4 agonist', 'stool softener', 'h2 antagonist', 'adsorption', 'bulk forming', 'antacid', 'm agonist'}
+
+indication :
+{'GI reflux', 'diarrhea', 'GI atony', 'peptic ulcer', 'constipation', 'urinary retention', 'gastroparesis'}
+
+adr :
+{'drug interaction', 'arrhythmia', 'bronchoconstriction', 'sweating', 'diarrhea', 'salivation', 'well tolerated', 'belching', 'urinary incontinence'}

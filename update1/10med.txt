@@ -1,0 +1,11 @@
+medicine :
+{'psyllium', 'alum milk', 'loperamide', 'bethanechol', 'metoclopramide', 'lactulose', 'cimetidine', 'bisacodyl', 'cisapride', 'misoprostol'}
+
+mechanism :
+{'m agonist', 'osmotic', 'h2 antagonist', '5-HT4 agonist', 'irritant', 'bulk forming', 'opioid agonist', 'd antagonist', 'PGE analog', 'antacid'}
+
+indication :
+{'hepatic encephalopathy', 'urinary retention', 'peptic ulcer', 'diarrhea', 'constipation', 'GI atony', 'gastroparesis', 'GI reflux', 'N/V'}
+
+adr :
+{'dystonia', 'extrapyramidal', 'diarrhea', 'toxic megacolon', 'salivation', 'constipation', 'sweating', 'uterine contraction', 'arrhythmia', 'drug interaction', 'urinary incontinence', 'systemic infection', 'hyperprolactinemia', 'belching', 'bronchoconstriction', 'abdominal spasm'}

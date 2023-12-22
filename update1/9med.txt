@@ -1,0 +1,11 @@
+medicine :
+{'alum milk', 'bethanechol', 'lactulose', 'metoclopramide', 'psyllium', 'omeprazole', 'loperamide', 'cimetidine', 'cisapride'}
+
+mechanism :
+{'proton pump inhibitor', 'bulk forming', 'opioid agonist', '5-HT4 agonist', 'osmotic', 'd antagonist', 'antacid', 'm agonist', 'h2 antagonist'}
+
+indication :
+{'GI reflux', 'urinary retention', 'peptic ulcer', 'constipation', 'N/V', 'gastroparesis', 'hepatic encephalopathy', 'diarrhea', 'GI atony'}
+
+adr :
+{'anemia', 'dystonia', 'tetany', 'hypergastrinemia', 'extrapyramidal', 'diarrhea', 'toxic megacolon', 'salivation', 'sweating', 'constipation', 'arrhythmia', 'drug interaction', 'urinary incontinence', 'systemic infection', 'hyperprolactinemia', 'belching', 'osteoporosis', 'bronchoconstriction'}

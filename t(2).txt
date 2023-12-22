@@ -1,0 +1,13 @@
+card number : 20      mednum : 6/6
+
+medicine 6:
+{'domperidone', 'magnesium hydroxide', 'famotidine', 'alum milk', 'omeprazole', 'metoclopramide'}
+
+mechanism 4:
+{'antacid', 'proton pump inhibitor', 'd antagonist', 'h2 antagonist'}
+
+indication 5:
+{'GI reflux', 'N/V', 'constipation', 'gastroparesis', 'peptic ulcer'}
+
+adr 11:
+{'hypergastrinemia', 'diarrhea', 'anemia', 'osteoporosis', 'arrhythmia', 'dystonia', 'hyperprolactinemia', 'well tolerated', 'drug interaction', 'tetany', 'extrapyramidal'}

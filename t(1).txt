@@ -1,0 +1,13 @@
+card number : 23      mednum : 6/6
+
+medicine 6:
+{'methylcellulose', 'domperidone', 'alum milk', 'omeprazole', 'loperamide', 'ondansetron'}
+
+mechanism 6:
+{'antacid', 'bulk forming', 'd antagonist', '5-HT3 antagonist', 'proton pump inhibitor', 'opioid agonist'}
+
+indication 6:
+{'GI reflux', 'diarrhea', 'N/V', 'constipation', 'gastroparesis', 'peptic ulcer'}
+
+adr 11:
+{'hypergastrinemia', 'anemia', 'arrhythmia', 'osteoporosis', 'constipation', 'hyperprolactinemia', 'systemic infection', 'belching', 'toxic megacolon', 'drug interaction', 'tetany'}

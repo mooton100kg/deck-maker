@@ -1,0 +1,13 @@
+.m,/nB.m,/bn.m,/bNcard number : 23      mednum : 6/6
+
+medicine 6:
+{'omeprazole', 'alum milk', 'domperidone', 'methylcellulose', 'ondansetron', 'loperamide'}
+
+mechanism 6:
+{'opioid agonist', 'antacid', 'proton pump inhibitor', '5-HT3 antagonist', 'bulk forming', 'd antagonist'}
+
+indication 6:
+{'peptic ulcer', 'constipation', 'gastroparesis', 'diarrhea', 'GI reflux', 'N/V'}
+
+adr 11:
+{'constipation', 'tetany', 'toxic megacolon', 'systemic infection', 'belching', 'drug interaction', 'hypergastrinemia', 'arrhythmia', 'hyperprolactinemia', 'osteoporosis', 'anemia'}

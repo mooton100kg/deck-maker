@@ -6,6 +6,6 @@ mechanism :
 
 indication :
 {'GI reflux', 'diarrhea', 'GI atony', 'peptic ulcer', 'constipation', 'urinary retention', 'gastroparesis'}
-
+ 
 adr :
 {'drug interaction', 'arrhythmia', 'bronchoconstriction', 'sweating', 'diarrhea', 'salivation', 'well tolerated', 'belching', 'urinary incontinence'}

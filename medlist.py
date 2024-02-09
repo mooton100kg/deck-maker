@@ -100,3 +100,4 @@ MGI_LIST = {'bethanechol':['m agonist',['urinary retention','GI atony'],['diarrh
 	'docusate':['stool softener',['constipation'],['well tolerated']],
 	'bisacodyl':['irritant',['constipation'],['abdominal spasm']],
 	'activated charcoal':['adsorption',['diarrhea'],['drug interaction']]}
+

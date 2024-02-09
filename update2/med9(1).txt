@@ -1,4 +1,4 @@
-medicine :
+>??BMN<><BMNN<BMN>>??>??>medicine :
 {'sucralfate', 'milk of megnesia', 'calcium carbonate', 'methylcellulose', 'metoclopramide', 'famotidine', 'loperamide', 'sodium bicarbonate', 'bisacodyl'}
 
 mechanism :
